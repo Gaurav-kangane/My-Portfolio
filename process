@@ -1,0 +1,21 @@
+1. Create your portfolio from claude code create index.html file
+
+2. create new repo in github and upload index.html file.
+
+3. Go to repo setting and click on pages select branch main and save it.
+
+4. Then in Actions pipeline will run.
+
+5. Go to settings --> pages you will see at the top your website will be hosted open the site and check website.
+
+6. If you want to add your domain for the website
+
+7. Go to godaddy website and click on profile --> my products --> click on your domain
+
+8. Go to DNS and click on Add new record is this option is disabled go to nameservers --> change Nameservers to default
+
+9. Add new record choose CNAME, in name e.g= gsk, in value = <Github-profile>.github.io e.g= Gaurav-kangane.github.io and save it.
+
+10. Go to reop settings --> pages --> custom domain --> Add name.yourdomain e.g= gsk.gkangane.shop and save it.
+
+11. Check your domain your website will be deployed on that domain.
